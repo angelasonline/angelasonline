@@ -16,7 +16,7 @@ Real-time captions and sign language as broadcast infrastructure, designed for r
 Bridges a Buzz agent workspace to Bitchat's offline Bluetooth mesh, so an announcement still reaches phones when the network is down.
 
 - [Refusal Ledger](https://github.com/angelasonline/refusal-ledger)
-A signed, auditable record of what AI agents were asked and how they answered — including refusals — verifiable by anyone.
+A signed, auditable record of what AI agents were asked and how they answered, including refusals, verifiable by anyone.
 
 ## The idea
 
