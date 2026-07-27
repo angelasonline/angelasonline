@@ -1,6 +1,6 @@
 # Angela Johnson
 
-I build open infrastructure for how people access, communicate with, and collaborate with AI.
+I build open infrastructure for how people access, communicate with, and collaborate with Artificial Intelligence.
 
 My projects explore what happens when AI is treated as infrastructure people can connect to, adapt, and own, rather than a product controlled by a single model provider.
 
