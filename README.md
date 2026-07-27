@@ -1,8 +1,8 @@
 # Angela Johnson
 
-I build open infrastructure for how people access, communicate with, and collaborate with Artificial Intelligence.
+I explore what happens when communication, language, and intelligence are treated as infrastructure.
 
-My projects explore what happens when AI is treated as infrastructure people can connect to, adapt, and own, rather than a product controlled by a single model provider.
+Who controls the infrastructure people rely on to communicate, understand, and participate, and what happens when that infrastructure fails?
 
 ### Projects
 
