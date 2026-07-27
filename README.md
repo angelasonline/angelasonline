@@ -1,8 +1,6 @@
 # Angela Johnson
 
-I explore what happens when communication, language, and intelligence are treated as infrastructure.
-
-Who controls the infrastructure people rely on to communicate, understand, and participate, and what happens when that infrastructure fails?
+I explore what happens when communication, language, and intelligence are treated as infrastructure. Who controls the infrastructure people rely on to communicate, understand, and participate, and what happens when that infrastructure fails?
 
 ### Projects
 
