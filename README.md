@@ -20,4 +20,4 @@ My projects explore what happens when AI is treated as infrastructure people can
 
 ### The idea
 
-**Models will change. The infrastructure for accessing and collaborating with them should outlast any one model.**
+Models will change. The infrastructure for accessing and collaborating with them should outlast any one model.
