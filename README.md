@@ -18,9 +18,6 @@ Bridges a Buzz agent workspace to Bitchat's offline Bluetooth mesh, so an announ
 - [Refusal Ledger](https://github.com/angelasonline/refusal-ledger)
 A signed, auditable record of what AI agents were asked and how they answered — including refusals — verifiable by anyone.
 
-- [Block Party Kit](https://github.com/angelasonline/blockparty-kit)
-A community-owned approach to running AI locally across a room full of ordinary computers.
-
 ## The idea
 
 Models will change. The infrastructure for accessing and collaborating with them should outlast any one model.
